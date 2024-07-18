@@ -1,3 +1,3 @@
 # awesome-ethereum
 
-## A curated list of awesome things related to Ethereum
+A curated list of awesome things related to Ethereum
