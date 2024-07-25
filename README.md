@@ -4,6 +4,7 @@ A collection of articles, papers, videos, and other resources that I’ve read o
 
 ## Lectures
 - [Rollups are Real — Rollup Economics 2.0](https://davidecrapis.notion.site/Rollups-are-Real-Rollup-Economics-2-0-2516079f62a745b598133a101ba5a3de)
+- [What is Consensus?](https://decentralizedthoughts.github.io/2019-06-27-defining-consensus/)
 
 ## Papers
  - [Impact of EIP-4844 on Ethereum: Consensus Security, Ethereum
